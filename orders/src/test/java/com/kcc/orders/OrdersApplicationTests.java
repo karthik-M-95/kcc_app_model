@@ -1,10 +1,10 @@
-package com.kcc.customer;
+package com.kcc.orders;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CustomerApplicationTests {
+class OrdersApplicationTests {
 
 	@Test
 	void contextLoads() {

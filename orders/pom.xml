@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kcc</groupId>
-	<artifactId>customer</artifactId>
+	<artifactId>orders</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>customer</name>
-	<description>Spring Project for </description>
+	<name>orders</name>
+	<description>kcc orders module</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
